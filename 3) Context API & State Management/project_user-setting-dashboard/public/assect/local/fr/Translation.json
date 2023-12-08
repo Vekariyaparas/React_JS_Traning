@@ -1,0 +1,18 @@
+{
+  "app_title": "Titre",
+  "language": "langue",
+  "Dashboard": "Tableau de bord",
+  "Home": "Maison",
+  "About": "À propos",
+  "Contact": "Contact",
+  "Toggle_Theme": "Basculer le thème",
+  "Dashboard_Settings": "Paramètres du tableau de bord",
+  "Username": "Nom d'utilisateur",
+  "Edit_Your_Profile": "Modifier votre profil",
+  "welcome_message": "Bienvenue",
+  "days_since_release": "La géographie est l'étude des lieux et des relations entre les personnes et leur environnement. Les géographes explorent à la fois les propriétés physiques de la surface de la Terre et les sociétés humaines qui y sont réparties.",
+  "Ideal": "Lorem Ipsum est tout simplement un faux texte de l’industrie de l’imprimerie et de la composition. Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galerie de caractères et l'a brouillée pour en faire un livre de spécimens de caractères. Il a survécu non seulement à cinq siècles, mais aussi au saut vers la composition électronique, restant essentiellement inchangé. Il a été popularisé dans les années 1960 avec la sortie de feuilles Letraset contenant des passages du Lorem Ipsum, et plus récemment avec des logiciels de publication assistée par ordinateur comme Aldus PageMaker incluant des versions de Lorem Ipsum.",
+  "Acco1": "Article accordéon 1",
+  "Acco2": "Article accordéon 2",
+  "Acco3": "Article accordéon 3"
+}
