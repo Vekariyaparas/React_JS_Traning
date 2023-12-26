@@ -1,0 +1,406 @@
+{
+  "slider": [
+    {
+      "slidertitle": "slide-1",
+      "sliderimg": "https://t4.ftcdn.net/jpg/06/15/06/53/240_F_615065375_8tp1wpty6IF7Hj5TZ6dVS4PCP5ANV3Iw.jpg",
+      "id": 2
+    },
+    {
+      "slidertitle": "slider-2",
+      "sliderimg": "https://t3.ftcdn.net/jpg/04/46/87/46/240_F_446874680_3Nn5iC6uT40z4KL7RklZr3EJWJjjN2Je.jpg",
+      "id": 3
+    },
+    {
+      "slidertitle": "slide-3",
+      "sliderimg": "https://t3.ftcdn.net/jpg/03/29/45/14/240_F_329451475_zrqEBBJkFPxH0BajNQrDuvPflY2lzZeo.jpg",
+      "id": 4
+    }
+  ],
+  "contatc": [
+    {
+      "Name": "deep",
+      "Email": "divyeshkalariya26@gmail.com",
+      "Subject": "query",
+      "Message": "hellow",
+      "id": 1
+    },
+    {
+      "Name": "parajras",
+      "Email": "divyeshkalariya26@gmail.com",
+      "Subject": "query",
+      "Message": "hellow",
+      "id": 2
+    },
+    {
+      "Name": "paras",
+      "Email": "vekariya@gmail.com",
+      "Subject": "sjnkdsk",
+      "Message": "sdsjkxdkjs",
+      "id": 3
+    }
+  ],
+  "Register": [
+    {
+      "FristName": "paras",
+      "LastName": "vekariya",
+      "id": "parasvekariya2000@gmail.com",
+      "Number": "7600761497",
+      "Password": "paras4626"
+    },
+    {
+      "FristName": "paras",
+      "LastName": "vekariya",
+      "id": "admin1@gmail.com",
+      "Number": "7600761497",
+      "Password": "adm123"
+    }
+  ],
+  "category": [
+    {
+      "categoryname": "Men's Dresses",
+      "adddate": "2023-08-05",
+      "id": 1
+    },
+    {
+      "categoryname": "Women's Desses",
+      "adddate": "2023-08-05",
+      "id": 2
+    },
+    {
+      "categoryname": "Baby's Dresses",
+      "adddate": "2023-08-05",
+      "id": 3
+    },
+    {
+      "categoryname": "Shirts",
+      "adddate": "2023-08-05",
+      "id": 4
+    },
+    {
+      "categoryname": "Jeans",
+      "adddate": "2023-08-05",
+      "id": 5
+    },
+    {
+      "categoryname": "Blazers",
+      "adddate": "2023-08-05",
+      "id": 6
+    }
+  ],
+  "trendyproduct": [
+    {
+      "category": "Women's Desses",
+      "productname": "Dress",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-1.jpg",
+      "productqut": "1",
+      "offerprice": "699",
+      "productprice": "788",
+      "productdes": "ladies",
+      "date": "2023-08-05",
+      "id": 1
+    },
+    {
+      "category": "Baby's Dresses",
+      "productname": "Shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-2.jpg",
+      "productqut": "1",
+      "offerprice": "591",
+      "productprice": "788",
+      "productdes": "Baby",
+      "date": "2023-08-05",
+      "id": 2
+    },
+    {
+      "category": "Men's Dresses",
+      "productname": "Men Shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-3.jpg",
+      "productqut": "1",
+      "offerprice": "688",
+      "productprice": "788",
+      "productdes": "Men",
+      "date": "2023-08-05",
+      "id": 3
+    },
+    {
+      "category": "Women's Desses",
+      "productname": "Dress",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-4.jpg",
+      "productqut": "1",
+      "offerprice": "708",
+      "productprice": "788",
+      "productdes": "Ladies",
+      "date": "2023-08-05",
+      "id": 4
+    },
+    {
+      "category": "Baby's Dresses",
+      "productname": "shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-5.jpg",
+      "productqut": "1",
+      "offerprice": "708",
+      "productprice": "788",
+      "productdes": "Ladies",
+      "date": "2023-08-05",
+      "id": 5
+    },
+    {
+      "category": "Blazers",
+      "productname": "Blazer",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-6.jpg",
+      "productqut": "1",
+      "offerprice": "1099",
+      "productprice": "1172",
+      "productdes": "Men",
+      "date": "2023-08-05",
+      "id": 6
+    },
+    {
+      "category": "Women's Desses",
+      "productname": "Shoots",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-7.jpg",
+      "productqut": "1",
+      "offerprice": "1099",
+      "productprice": "1172",
+      "productdes": "Ladies",
+      "date": "2023-08-05",
+      "id": 7
+    },
+    {
+      "category": "Shirts",
+      "productname": "Shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-8.jpg",
+      "productqut": "1",
+      "offerprice": "999",
+      "productprice": "889",
+      "productdes": "Men",
+      "date": "2023-08-05",
+      "id": 8
+    }
+  ],
+  "justarrivedproduct": [
+    {
+      "category": "Baby's Dresses",
+      "productname": "Shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-5.jpg",
+      "productqut": "1",
+      "offerprice": "708",
+      "productprice": "788",
+      "productdes": "Ladis",
+      "date": "2023-08-05",
+      "id": 1
+    },
+    {
+      "category": "Blazers",
+      "productname": "Blazer",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-6.jpg",
+      "productqut": "1",
+      "offerprice": "1099",
+      "productprice": "1172",
+      "productdes": "Men",
+      "date": "2023-08-05",
+      "id": 2
+    },
+    {
+      "category": "Women's Desses",
+      "productname": "Shoots",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-7.jpg",
+      "productqut": "1",
+      "offerprice": "1099",
+      "productprice": "1172",
+      "productdes": "Ladies",
+      "date": "2023-08-05",
+      "id": 3
+    },
+    {
+      "category": "Women's Desses",
+      "productname": "Dress",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-1.jpg",
+      "productqut": "1",
+      "offerprice": "699",
+      "productprice": "788",
+      "productdes": "ladies",
+      "date": "2023-08-05",
+      "id": 4
+    },
+    {
+      "category": "Shirts",
+      "productname": "Shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-2.jpg",
+      "productqut": "1",
+      "offerprice": "591",
+      "productprice": "788",
+      "productdes": "Baby",
+      "date": "2023-08-05",
+      "id": 5
+    },
+    {
+      "category": "Men's Dresses",
+      "productname": "Men Shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-3.jpg",
+      "productqut": "1",
+      "offerprice": "688",
+      "productprice": "788",
+      "productdes": "Men",
+      "date": "2023-08-05",
+      "id": 6
+    },
+    {
+      "category": "Women's Desses",
+      "productname": "Dress",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-4.jpg",
+      "productqut": "1",
+      "offerprice": "708",
+      "productprice": "788",
+      "productdes": "Ladies",
+      "date": "2023-08-05",
+      "id": 7
+    },
+    {
+      "category": "Baby's Dresses",
+      "productname": "shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-5.jpg",
+      "productqut": "1",
+      "offerprice": "708",
+      "productprice": "788",
+      "productdes": "Ladies",
+      "date": "2023-08-05",
+      "id": 8
+    }
+  ],
+  "shop": [
+    {
+      "category": "Women's Desses",
+      "productname": "Dress",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-1.jpg",
+      "productqut": "1",
+      "offerprice": "699",
+      "productprice": "697",
+      "productdes": "Ladies",
+      "date": "2023-08-06",
+      "id": 1
+    },
+    {
+      "category": "Blazers",
+      "productname": "Blazer",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-6.jpg",
+      "productqut": "1",
+      "offerprice": "1099",
+      "productprice": "1299",
+      "productdes": "Mans",
+      "date": "2023-08-06",
+      "id": 2
+    },
+    {
+      "category": "Shirts",
+      "productname": "Shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-2.jpg",
+      "productqut": "1",
+      "offerprice": "591",
+      "productprice": "591",
+      "productdes": "baby",
+      "date": "2023-08-06",
+      "id": 3
+    },
+    {
+      "category": "Baby's Dresses",
+      "productname": "Shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-5.jpg",
+      "productqut": "1",
+      "offerprice": "708",
+      "productprice": "708",
+      "productdes": "T-shirt",
+      "date": "2023-08-06",
+      "id": 4
+    },
+    {
+      "category": "Men's Dresses",
+      "productname": "Men Shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-3.jpg",
+      "productqut": "1",
+      "offerprice": "688",
+      "productprice": "788",
+      "productdes": "Men",
+      "date": "2023-08-06",
+      "id": 5
+    },
+    {
+      "category": "Baby's Dresses",
+      "productname": "Shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-8.jpg",
+      "productqut": "1",
+      "offerprice": "990",
+      "productprice": "1099",
+      "productdes": "Children",
+      "date": "2023-08-06",
+      "id": 6
+    },
+    {
+      "category": "Women's Desses",
+      "productname": "Dress",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-4.jpg",
+      "productqut": "1",
+      "offerprice": "708",
+      "productprice": "808",
+      "productdes": "Dress",
+      "date": "2023-08-06",
+      "id": 7
+    },
+    {
+      "category": "Women's Desses",
+      "productname": "Shoot",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-7.jpg",
+      "productqut": "1",
+      "offerprice": "1099",
+      "productprice": "1199",
+      "productdes": "Ladies",
+      "date": "2023-08-06",
+      "id": 8
+    },
+    {
+      "category": "Women's Desses",
+      "productname": "T-shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-1.jpg",
+      "productqut": "1",
+      "offerprice": "799",
+      "productprice": "899",
+      "productdes": "Ladies",
+      "date": "2023-08-06",
+      "id": 9
+    }
+  ],
+  "cart": [
+    {
+      "category": "Blazers",
+      "productname": "Shoots",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-7.jpg",
+      "productqut": "1",
+      "offerprice": "1099",
+      "productprice": "1172",
+      "productdes": "Ladies",
+      "date": "2023-08-05",
+      "id": 7
+    },
+    {
+      "category": "Blazers",
+      "productname": "Shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-2.jpg",
+      "productqut": "2",
+      "offerprice": "591",
+      "productprice": "788",
+      "productdes": "Baby",
+      "date": "2023-08-05",
+      "id": 2
+    },
+    {
+      "category": "Men's Dresses",
+      "productname": "Men Shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-3.jpg",
+      "productqut": "1",
+      "offerprice": "688",
+      "productprice": "788",
+      "productdes": "Men",
+      "date": "2023-08-05",
+      "id": 6
+    }
+  ]
+}

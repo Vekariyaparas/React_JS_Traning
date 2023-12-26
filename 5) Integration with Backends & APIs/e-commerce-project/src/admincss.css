@@ -1,0 +1,144 @@
+/* login page start here  */
+.adminlogin{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    /* border: 1px solid black; */
+    margin-top: 2%;
+    /* background-color: rgb(235, 248, 244) !important; */
+}
+.loginimg{
+    width: 100%;
+    height: 600px !important;
+}
+.adminlogin form{
+    margin-top: 19%;
+}
+/* login page over here  */
+
+/* admin header page start here  */
+.Adminheader{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    background-color: rgb(235, 248, 244) !important;
+}
+/* admin header page over here  */
+
+
+/* admin sidebar page start here  */
+.adminsidebar{
+    width: 20% !important;
+    height: 87.5vh;
+    float: left;
+    padding: 5% 10% !important;
+}
+/* admin sidebar page over here  */
+
+
+/* admin content page start here  */
+.admincontent{
+    width: 80%;
+    height: 80vh;
+    margin: auto;
+    float: left;
+    overflow: scroll;
+    /* border: 1px solid black; */
+}
+#columnchart_material{
+    width: 90% !important;
+    height: 500px !important;
+    margin: auto;
+    border: 1px solid white;
+}
+/* admin content page over here  */
+
+
+/* admin mage contact page start here  */
+.managecontact{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    float: left;
+    /* border: 1px solid black; */
+}
+/* admin mage contact page over here  */
+
+
+/* admin footer page start here  */
+.adminfooter{
+    width: 100%;
+    height: 5vh;
+    clear: both;
+    background-color: rgb(235, 248, 244);
+    text-align: center;
+}
+
+
+/* add slider page start here  */
+.addslider,
+.manageslider{
+    width: 80% !important;
+    height: auto;
+    margin: auto;
+    float: left;
+}
+/* add slider page over here  */
+
+
+/* manage login page start here  */
+.login{
+    width: 80% !important;
+    height: auto;
+    margin: auto;
+    float: left;
+}
+/* manage login page over here  */
+
+/* manege register page start here  */
+.manageregister{
+    width: 80% !important;
+    height: auto;
+    margin: auto;
+    float: left;
+}
+/* manage register page over here  */
+
+/* add category page start here  */
+.addcategory{
+    width: 80% !important;
+    height: auto;
+    margin: auto;
+    float: left;
+}
+/* add category page over here  */
+
+
+/* manage category page start here  */
+.managecategory{
+    width: 80% !important;
+    height: auto;
+    margin: auto;
+    float: left;
+}
+/* manage category page over here  */
+
+/* trendy products page start here  */
+.trendyproducts{
+    width: 80%;
+    height: 87.5vh;
+    margin: auto;
+    float: left;
+    overflow: scroll;
+}
+/* trendy products page over here  */
+
+/* arrived prodect page start here  */
+.arrivedproduct{
+    width: 80%;
+    height: 87.5vh;
+    margin: auto;
+    float: left;
+    overflow: scroll;
+}
+/* arrived prodect page start here  */
