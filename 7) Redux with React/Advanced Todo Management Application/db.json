@@ -1,0 +1,52 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "username": "json-server",
+      "email": "typicode",
+      "password": "typicode"
+    },
+    {
+      "username": "ffvddd",
+      "email": "parasvekariya2000@gmail.com",
+      "password": "dfdfcvef",
+      "id": 2
+    },
+    {
+      "username": "paras",
+      "email": "parasvekariya2000@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "username": "cd",
+      "email": "parasvekariya2000@gmail.com",
+      "password": "sdc",
+      "id": 4
+    },
+    {
+      "username": "cdscdc",
+      "email": "weds@gmail.com",
+      "password": "ddxs",
+      "id": 5
+    },
+    {
+      "username": "dxcs",
+      "email": "parasvekariya2000@gmail.com",
+      "password": "dcsz",
+      "id": 6
+    }
+  ],
+  "task": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "date": "typicode"
+    },
+    {
+      "title": "saxssx",
+      "date": "2024-01-09",
+      "id": 2
+    }
+  ]
+}
